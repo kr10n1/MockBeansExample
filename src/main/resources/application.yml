@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: mockBeansExample
+mocked-beans:
+  bean1:
+    prop: value1
+  bean2:
+    prop: value2
